@@ -19,4 +19,24 @@
   <value name="jvm_version">1.8.0_261</value>
   <value name="publisher">192.168.164.128</value>
   <value name="patch_nums"></value>
+  <value name="reloadWithDependentPackage">yes</value>
+  <null name="created_date"/>
+  <array name="extendedProperties" type="record" depth="1">
+    <record javaclass="com.wm.util.Values">
+      <value name="key">displayName</value>
+      <value name="value"></value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">trusted</value>
+      <value name="value">no</value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">status</value>
+      <value name="value">Development</value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">tags</value>
+      <value name="value"></value>
+    </record>
+  </array>
 </Values>
